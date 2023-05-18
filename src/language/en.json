@@ -1,0 +1,11 @@
+{
+    "translation": {
+        "nearby": "nearby",
+        "information":"Information",
+        "map":"Map",
+        "gotomap":"Go to map",
+        "searchbyitems":"Search by items",
+        "saved":"Saved",
+        "selectlanguage": "Select Language"
+    }
+}

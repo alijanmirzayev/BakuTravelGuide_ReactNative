@@ -1,0 +1,17 @@
+export {default as Club} from './Club';
+export {default as Home} from './Home';
+export {default as Hospital} from './Hospital';
+export {default as Hotel} from './Hotel';
+export {default as Location} from './Location';
+export {default as Museum} from './Museum';
+export {default as Park} from './Park';
+export {default as Phone} from './Phone';
+export {default as Restaurant} from './Restaurant';
+export {default as Save} from './Save';
+export {default as Search} from './Search';
+export {default as SearchItem} from './SearchItem';
+export {default as Shop} from './Shop';
+export {default as Sight} from './Sight';
+export {default as Star} from './Star';
+export {default as Watch} from './Watch';
+export {default as Weather} from './Weather';
